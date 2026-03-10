@@ -1,4 +1,4 @@
-# 🤖 IBM Instana Chatbot
+# 🤖 Instana Chatbot
 
 **Streamlit**과 **LangChain**으로 구축된 종합적인 챗봇 애플리케이션입니다. **IBM watsonx (Mistral AI)** 모델을 기반으로 하며, **Milvus** 벡터 데이터베이스를 활용한 **RAG(검색 증강 생성)** 기능을 통해 정교한 응답을 제공합니다.
 
