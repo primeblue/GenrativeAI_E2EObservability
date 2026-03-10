@@ -1,0 +1,11 @@
+.env
+uv.lock
+app.py
+.DS_Store
+__pycache__/
+
+# Volume data directories (database and storage files)
+volumes/
+
+# Large documentation files
+*.pdf
